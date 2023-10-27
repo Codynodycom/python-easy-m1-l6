@@ -1,11 +1,14 @@
-# 4 урок курса Python Easy
+# 6 урок курса Python Easy
 
 ## Содержание
 
-[Логические операторы](theory/01-logic-operators.md)
-[Условные конструкции](theory/02-coditions.md)
-[Примеры условий](theory/03-coditions-examples.md)
+[Операторы сравнения](theory/01-1-operators.md)
 
+
+[Условные конструкции](theory/01-conditions.md)
+
+
+[Примеры условий](theory/02-examples-if.md)
 
 <hr>
 
